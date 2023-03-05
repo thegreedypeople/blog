@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Posts
+  link: /blog
+- name: Search
+  link: /search
+- name: About
+  link: /about
+- name: Rss
+  link: /atom.xml
